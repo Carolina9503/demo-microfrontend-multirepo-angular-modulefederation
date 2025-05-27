@@ -1,0 +1,9 @@
+[submodule "mf-auth"]
+	path = mf-auth
+	url = https://github.com/TU_USUARIO/mf-auth.git
+[submodule "mf-products"]
+	path = mf-products
+	url = https://github.com/TU_USUARIO/mf-products.git
+[submodule "mf-shell"]
+	path = mf-shell
+	url = https://github.com/TU_USUARIO/mf-shell.git
